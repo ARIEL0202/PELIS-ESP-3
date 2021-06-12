@@ -1397,3 +1397,70 @@ https://onedrive.live.com/download.aspx?resid=C9C239E3E567BD23!843&authkey=!AI3_
 https://onedrive.live.com/download.aspx?resid=C9C239E3E567BD23!854&authkey=!AMqj_KRCJnKhYTw&ithint=video%2cmp4
 #EXTINF:0 tvg-id="ext" group-title="PACK 04",LA NOVIA DE CHUCKY (1998)
 https://onedrive.live.com/download.aspx?resid=C9C239E3E567BD23!853&authkey=!AKSBrXTX9RUVsnU&ithint=video%2cmp4
+
+#EXTINF:-1 tvg-id="" tvg-name="SP | An | Ozzy 2016" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BYTE0M2E4OWYtMTBiNS00NWM0LWI1NzYtYjU4ZDVhY2NkMGM2XkEyXkFqcGdeQXVyMjMwODE4ODI@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="VOD Animation",SP | An | Ozzy 2016
+http://ipflix.click:8080/movie/h602/rflx42k17c/12812.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SP | An | Despicable Me 3 2017" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BNjUyNzQ2MTg3Ml5BMl5BanBnXkFtZTgwNzE4NDM3MTI@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="VOD Animation",SP | An | Despicable Me 3 2017
+http://ipflix.click:8080/movie/h602/rflx42k17c/11316.mp4
+#EXTINF:-1 tvg-id="" tvg-name="SP | An | Ballerina 2016" tvg-logo="http://mypanel.tv:8080/images/qBxMhcmNnFniuDAZTKEHcSgKtsn_small.jpg" group-title="VOD Animation",SP | An | Ballerina 2016
+http://ipflix.click:8080/movie/h602/rflx42k17c/625801.mp4
+#EXTINF:-1 tvg-id="" tvg-name="SP | An | Buscando A Nemo 2003" tvg-logo="http://mypanel.tv:8080/images/syPWyeeqzTQIxjIUaIFI7d0TyEY_small.jpg" group-title="VOD Animation",SP | An | Buscando A Nemo 2003
+http://ipflix.click:8080/movie/h602/rflx42k17c/625808.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SP | An | Cruce De Caminos 2002" tvg-logo="http://mypanel.tv:8080/images/v1K5NCwvoGdRp3VGfqGovk9mSFI_small.jpg" group-title="VOD Animation",SP | An | Cruce De Caminos 2002
+http://ipflix.click:8080/movie/h602/rflx42k17c/626084.avi
+#EXTINF:-1 tvg-id="" tvg-name="SP | An | Ferdinand 2017" tvg-logo="http://mypanel.tv:8080/images/rMm94JsRfcOPiPVsTRcBiiVBOhz_small.jpg" group-title="VOD Animation",SP | An | Ferdinand 2017
+http://ipflix.click:8080/movie/h602/rflx42k17c/625809.avi
+#EXTINF:-1 tvg-id="" tvg-name="SP | An | Campanilla Y El Tesoro Perdido 2009" tvg-logo="http://mypanel.tv:8080/images/c695u6KN4E42DMbzzvq3UHLI47S_small.jpg" group-title="VOD Animation",SP | An | Campanilla Y El Tesoro Perdido 2009
+http://ipflix.click:8080/movie/h602/rflx42k17c/626252.avi
+#EXTINF:-1 tvg-id="" tvg-name="SP | An | Canta 2016" tvg-logo="http://mypanel.tv:8080/images/5XFchtGifv8mz4qlyT8PZ7ZsjfG_small.jpg" group-title="VOD Animation",SP | An | Canta 2016
+http://ipflix.click:8080/movie/h602/rflx42k17c/626253.mp4
+#EXTINF:-1 tvg-id="" tvg-name="SP | An | El Bebe Jefazo 2017" tvg-logo="http://mypanel.tv:8080/images/unPB1iyEeTBcKiLg8W083rlViFH_small.jpg" group-title="VOD Animation",SP | An | El Bebe Jefazo 2017
+http://ipflix.click:8080/movie/h602/rflx42k17c/626177.mp4
+#EXTINF:-1 tvg-id="" tvg-name="SP | An | Elena Y El Secreto De Avalor 2016" tvg-logo="http://mypanel.tv:8080/images/mWgvqnK0TMCvZMSkAzMlHZYcKJd_small.jpg" group-title="VOD Animation",SP | An | Elena Y El Secreto De Avalor 2016
+http://ipflix.click:8080/movie/h602/rflx42k17c/626259.avi
+#EXTINF:-1 tvg-id="" tvg-name="SP | An | Enredados 2010" tvg-logo="http://mypanel.tv:8080/images/re6AOJbhBk9FIK3knwU6rYlbPDx_small.jpg" group-title="VOD Animation",SP | An | Enredados 2010
+http://ipflix.click:8080/movie/h602/rflx42k17c/626260.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SP | An | Frozen Una Av3ntura 2013" tvg-logo="http://mypanel.tv:8080/images/xOVSMcqMeohzasmCIyLwUv0k7FJ_small.jpg" group-title="VOD Animation",SP | An | Frozen Una Av3ntura 2013
+http://ipflix.click:8080/movie/h602/rflx42k17c/626261.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SP | An | Kung Fu Panda 3" tvg-logo="http://mypanel.tv:8080/images/MZFPacfKzgisnPoJIPEFZUXBBT_small.jpg" group-title="VOD Animation",SP | An | Kung Fu Panda 3
+http://ipflix.click:8080/movie/h602/rflx42k17c/626262.avi
+#EXTINF:-1 tvg-id="" tvg-name="SP | An | La Primera NavidadDe Mariah Y Jack 2017" tvg-logo="http://mypanel.tv:8080/images/5jv1ZhB4H5SdlG9Q1dEL8WSIIGq_small.jpg" group-title="VOD Animation",SP | An | La Primera NavidadDe Mariah Y Jack 2017
+http://ipflix.click:8080/movie/h602/rflx42k17c/626264.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SP | An | Madagascar 2005" tvg-logo="http://mypanel.tv:8080/images/2YiESGB68BGQSAFvfJxBi774sc4_small.jpg" group-title="VOD Animation",SP | An | Madagascar 2005
+http://ipflix.click:8080/movie/h602/rflx42k17c/626265.avi
+#EXTINF:-1 tvg-id="" tvg-name="SP | An | Mascotas 2016" tvg-logo="http://mypanel.tv:8080/images/WLQN5aiQG8wc9SeKwixW7pAR8K_small.jpg" group-title="VOD Animation",SP | An | Mascotas 2016
+http://ipflix.click:8080/movie/h602/rflx42k17c/626266.mp4
+#EXTINF:-1 tvg-id="" tvg-name="SP | An | Sahara 2017" tvg-logo="http://mypanel.tv:8080/images/turUYgFnjfsjPssIeWSLiNJFIla_small.jpg" group-title="VOD Animation",SP | An | Sahara 2017
+http://ipflix.click:8080/movie/h602/rflx42k17c/626267.avi
+#EXTINF:-1 tvg-id="" tvg-name="SP | An | Shrek 2 2004" tvg-logo="http://mypanel.tv:8080/images/akWDA0BMVYK4OTM92T5i91DYnsT_small.jpg" group-title="VOD Animation",SP | An | Shrek 2 2004
+http://ipflix.click:8080/movie/h602/rflx42k17c/626268.avi
+#EXTINF:-1 tvg-id="" tvg-name="SP | An | Shrek 2001" tvg-logo="http://mypanel.tv:8080/images/140ewbWv8qHStD3mlBDvvGd0Zvu_small.jpg" group-title="VOD Animation",SP | An | Shrek 2001
+http://ipflix.click:8080/movie/h602/rflx42k17c/626269.avi
+#EXTINF:-1 tvg-id="" tvg-name="SP | An | Tadeo Jones II 2004" tvg-logo="http://mypanel.tv:8080/images/kWx3h8Bt0QVa07d1GilLjuY39lu_small.jpg" group-title="VOD Animation",SP | An | Tadeo Jones II 2004
+http://ipflix.click:8080/movie/h602/rflx42k17c/626270.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SP | An | The Angry Birds Movie - La Pelicula 2016" tvg-logo="http://mypanel.tv:8080/images/t2mZzQXjpQxmqtJOPpe8Dr2YpMl_small.jpg" group-title="VOD Animation",SP | An | The Angry Birds Movie - La Pelicula 2016
+http://ipflix.click:8080/movie/h602/rflx42k17c/626251.avi
+#EXTINF:-1 tvg-id="" tvg-name="SP | An | Vaiana 2016" tvg-logo="http://mypanel.tv:8080/images/z4x0Bp48ar3Mda8KiPD1vwSY3D8_small.jpg" group-title="VOD Animation",SP | An | Vaiana 2016
+http://ipflix.click:8080/movie/h602/rflx42k17c/626271.mp4
+#EXTINF:-1 tvg-id="" tvg-name="SP | An | Constantine City Of Demons 2018" tvg-logo="http://mypanel.tv:8080/images/tZIMe2pYug1cS9e7AZnd1bTTidM_small.jpg" group-title="VOD Animation",SP | An | Constantine City Of Demons 2018
+http://ipflix.click:8080/movie/h602/rflx42k17c/627154.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SP | An | El Hijo De Bigfoot BRS LAT 2017" tvg-logo="http://mypanel.tv:8080/images/5yCQvhFuFPY0pACxoUpLUlYCxop_small.jpg" group-title="VOD Animation",SP | An | El Hijo De Bigfoot BRS LAT 2017
+http://ipflix.click:8080/movie/h602/rflx42k17c/627158.avi
+#EXTINF:-1 tvg-id="" tvg-name="SP | An | Jorge El Curioso 3 Vuelta A La Jungla 2015" tvg-logo="http://mypanel.tv:8080/images/yWRrDUOCZiIjcGEfhTwFxQDkgIy_small.jpg" group-title="VOD Animation",SP | An | Jorge El Curioso 3 Vuelta A La Jungla 2015
+http://ipflix.click:8080/movie/h602/rflx42k17c/627179.avi
+#EXTINF:-1 tvg-id="" tvg-name="SP | An | GRU 3 2017" tvg-logo="http://mypanel.tv:8080/images/6t3YWl7hrr88lCEFlGVqW5yV99R_small.jpg" group-title="VOD Animation",SP | An | GRU 3 2017
+http://ipflix.click:8080/movie/h602/rflx42k17c/627632.mp4
+#EXTINF:-1 tvg-id="" tvg-name="SP | An | Garfield En La Vida Real 2007" tvg-logo="http://mypanel.tv:8080/images/jhSImrUjIDcPCkvgJyFvO7hDZOv_small.jpg" group-title="VOD Animation",SP | An | Garfield En La Vida Real 2007
+http://ipflix.click:8080/movie/h602/rflx42k17c/628749.mp4
+#EXTINF:-1 tvg-id="" tvg-name="SP | An | Hotel Transilvania 3 2018" tvg-logo="http://mypanel.tv:8080/images/gjAFM4xhA5vyLxxKMz38ujlUfDL_small.jpg" group-title="VOD Animation",SP | An | Hotel Transilvania 3 2018
+http://ipflix.click:8080/movie/h602/rflx42k17c/628751.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SP | An | Robinson Una Aventura Tropical 2016" tvg-logo="http://mypanel.tv:80/images/dkRJnUMvchqAKCSvC12X4SDfHT5_small.jpg" group-title="VOD Animation",SP | An | Robinson Una Aventura Tropical 2016
+http://ipflix.click:8080/movie/h602/rflx42k17c/633394.mp4
+#EXTINF:-1 tvg-id="" tvg-name="SP | An | Cavernicola 2018" tvg-logo="http://mytv.fun:80/images/hXukFwTKOe7izDsf3ZOdeYikRxF_small.jpg" group-title="VOD Animation",SP | An | Cavernicola 2018
+http://ipflix.click:8080/movie/h602/rflx42k17c/646361.mp4
+#EXTINF:-1 tvg-id="" tvg-name="SP | An | Sherlock Gnomes 2018" tvg-logo="http://mytv.fun:80/images/wqnzpJR3PwS4doVkAkt9seSEpoX_small.jpg" group-title="VOD Spain",SP | An | Sherlock Gnomes 2018
+http://ipflix.click:8080/movie/h602/rflx42k17c/646416.mp4
+#EXTINF:-1 tvg-id="" tvg-name="SP | An | Constantine City of Demons The Movie 2018" tvg-logo="http://mytv.fun:80/images/tZIMe2pYug1cS9e7AZnd1bTTidM_small.jpg" group-title="VOD Animation",SP | An | Constantine City of Demons The Movie 2018
+http://ipflix.click:8080/movie/h602/rflx42k17c/646948.mp4
+#EXTINF:-1 tvg-id="" tvg-name="SP | An | El Grinch 2018" tvg-logo="http://mytv.fun:80/images/gpkHvkCtZOeCQ2DelnJ2LB1WjZ5_small.jpg" group-title="VOD Animation",SP | An | El Grinch 2018
+http://ipflix.click:8080/movie/h602/rflx42k17c/646949.mp4
