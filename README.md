@@ -20,7 +20,7 @@ http://ipflix.click:8080/movie/h602/rflx42k17c/11282.mkv
 http://ipflix.click:8080/movie/h602/rflx42k17c/18624.mp4     
 #EXTINF:-1 tvg-id="" tvg-name="SP | Action | Toro 2016" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMGE3ZmZmNWEtNzhjOC00ZGU4LTgxZmEtYWE3MzQ2OGIyY2RmXkEyXkFqcGdeQXVyMjA0NjUzNDI@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="VOD Spain",SP | Action | Toro 2016
 http://ipflix.click:8080/movie/h602/rflx42k17c/5722.mkv
-#EXTINF:-1 tvg-id="" tvg-name="SP | Adventure | Zip&zap And The Captain's Island 2016" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BZTE2YTUyMWYtOTgwNC00MmZmLWFjNWEtMmM4MzY5YmQ3MGVlXkEyXkFqcGdeQXVyMjQ3NzUxOTM@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="VOD Spain",SP | Adventure | Zip&zap And The Captain's Island 2016
+#EXTINF:-1 tvg-id="" tvg-name="SP | Adventure | Zip&zap And The Captain's Island 2016" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BZTE2YTUyMWYtOTgwNC00MmZmLWFjNWEtMmM4MzY5YmQ3MGVlXkEyXkFqcGdeQXVyMjQ3NzUxOTM@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="VOD Spain",SP | Adventure | Zip&zap And The Captain's Island 2016   
 http://ipflix.click:8080/movie/h602/rflx42k17c/4649.mkv
 #EXTINF:-1 tvg-id="" tvg-name="SP | Comedy | The Queen Of Spain 2016" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BZmQ3NTAxNmMtNjA5My00NTcxLThjMjQtNWQyYjU5YWMzMjFmL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="VOD Spain",SP | Comedy | The Queen Of Spain 2016
 http://ipflix.click:8080/movie/h602/rflx42k17c/10374.mkv
