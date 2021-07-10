@@ -17,7 +17,7 @@ http://ipflix.click:8080/movie/h602/rflx42k17c/9598.mp4
 #EXTINF:-1 tvg-id="" tvg-name="SP | Thriller | Black Snow 2017" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BNzc4YzZiNjAtMzRhYS00MzI3LTk1ZTYtZWVmODYzYjZmZDk3L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNTc5MTM5MTI@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="VOD Spain",SP | Thriller | Black Snow 2017
 http://ipflix.click:8080/movie/h602/rflx42k17c/11282.mkv
 #EXTINF:-1 tvg-id="" tvg-name="SP | Drama | Giant" tvg-logo="http://mypanel.tv:8080/images/5693136.jpg" group-title="VOD Spain",SP | Drama | Giant
-http://ipflix.click:8080/movie/h602/rflx42k17c/18624.mp4     
+http://ipflix.click:8080/movie/h602/rflx42k17c/18624.mp4            
 #EXTINF:-1 tvg-id="" tvg-name="SP | Action | Toro 2016" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMGE3ZmZmNWEtNzhjOC00ZGU4LTgxZmEtYWE3MzQ2OGIyY2RmXkEyXkFqcGdeQXVyMjA0NjUzNDI@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="VOD Spain",SP | Action | Toro 2016
 http://ipflix.click:8080/movie/h602/rflx42k17c/5722.mkv
 #EXTINF:-1 tvg-id="" tvg-name="SP | Adventure | Zip&zap And The Captain's Island 2016" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BZTE2YTUyMWYtOTgwNC00MmZmLWFjNWEtMmM4MzY5YmQ3MGVlXkEyXkFqcGdeQXVyMjQ3NzUxOTM@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="VOD Spain",SP | Adventure | Zip&zap And The Captain's Island 2016   
