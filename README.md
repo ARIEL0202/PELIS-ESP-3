@@ -1,4 +1,4 @@
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jDNLTp1/ikmnjki.png",ACCION
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jDNLTp1/ikmnjki.png",ACCION     
 https://raw.githubusercontent.com/laureanoflix/Peliculas/main/ACCION.m3u
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TW8mWYL/ndice-1.png",AVENTURA
 https://raw.githubusercontent.com/laureanoflix/Peliculas/main/AVENTURA.m3u
